@@ -1,0 +1,11 @@
+timestamp,event_id,username,source_ip,hostname,description
+2026-09-22 09:00:10,4625,administrator,192.168.1.80,WIN-SERVER-01,An account failed to log on
+2026-09-22 09:00:15,4625,administrator,192.168.1.80,WIN-SERVER-01,An account failed to log on
+2026-09-22 09:00:20,4625,administrator,192.168.1.80,WIN-SERVER-01,An account failed to log on
+2026-09-22 09:00:25,4625,administrator,192.168.1.80,WIN-SERVER-01,An account failed to log on
+2026-09-22 09:05:10,4624,administrator,192.168.1.80,WIN-SERVER-01,An account was successfully logged on
+2026-09-22 09:07:10,4672,administrator,192.168.1.80,WIN-SERVER-01,Special privileges assigned to new logon
+2026-09-22 09:08:00,4688,administrator,192.168.1.80,WIN-SERVER-01,A new process has been created
+2026-09-22 09:10:30,4625,guest,192.168.1.90,WIN-SERVER-01,An account failed to log on
+2026-09-22 09:10:35,4625,guest,192.168.1.90,WIN-SERVER-01,An account failed to log on
+2026-09-22 09:20:00,4624,analyst,192.168.1.20,WIN-SERVER-01,An account was successfully logged on

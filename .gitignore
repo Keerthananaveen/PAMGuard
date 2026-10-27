@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.coverage
+htmlcov/
+
+# Local databases and runtime data
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated reports (sample input files under logs/ are intentionally kept)
+reports/
